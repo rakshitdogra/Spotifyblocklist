@@ -1,6 +1,6 @@
 # Spotify AdBlock - Host file
 # Blocks all annoying Spotify ads & analytics
-# Updated 2018
+# Updated 2022
 # spclient.wg.spotify.com might break Spotify. Commented out by default
 # audio-fa.scdn.co might break Chromecast. Commented out by default
 # open.spotify.com might break Discord. Commented out by default
